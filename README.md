@@ -1,6 +1,6 @@
-### Basic Project
+### Pet registration Project
 
-## March, 26 2016
+## April, 2 2016
 
 Create a Maven structure on GitHub, clone it to your local Repo and update it
 
