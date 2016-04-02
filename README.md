@@ -2,6 +2,8 @@
 
 ## April, 2 2016
 
-Create a Maven structure on GitHub, clone it to your local Repo and update it
+- Java 7
+- Maven
+- Git
 
 [Michael Zhestkov](mailto:michaelzhestkov@gmail.com)
